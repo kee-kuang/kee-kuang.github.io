@@ -97,8 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: landscape
-  Themes: https://d-sketon.github.io/themes/
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
